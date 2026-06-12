@@ -1,1 +1,1 @@
-Calcule se você está no peso ideal para a sua altura.
+Veja se você está no peso ideal para a sua altura.
